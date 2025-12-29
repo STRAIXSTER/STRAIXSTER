@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 
 I'm George, I'm working on becoming a software engineer.
 
@@ -8,18 +8,21 @@ I will post here all my projects that I will work on to see my evolution in the 
 
 --------------------------------------------------------------------------------------------------------------
 
-Languages and experience :
-I can work quite ok with C and C ++
-I can help people with problems with their PC's.
+### 🛠 Language and expertise :
+**Core Focus:** C and C++(Current focus).
+
+**Hardware Skills:** Hardware Troubleshooting, PC building and system maintenance.
 
 --------------------------------------------------------------------------------------------------------------
 
-A bit about me:
+### ⚡ A bit about me:
 
-* 🌱 I’m currently learning C++ and C. Any help is apreciated !
-* 👯 I’m looking to collaborate on anything interesting.
-* ✈️ Always wanted to live in a anglophone country !
+* 🌱 I’m currently looking  into **C++ and C**. Mentorship or advice is always appreciated!
+* 👯 I’m open to collaborating on open-source projects or interesting challenges to learn more !
+* ✈️ **Goal:** To eventually live and work in an Anglophone country.
 * 💻 Always had a thing for technology.
-* 🦜 I'm a HUGE animal lover.
+* 🦜 **Fun fact:** I'm a **HUGE** animal lover.
 * 🛠 Always looking to create new things or find solutions to problems.
-* 📫 How to reach me: message me on discord. Same username as on Github.
+
+### 📫 Connect with me:
+  **Discord:** STRAIXSTER (Message me for collabs!)
