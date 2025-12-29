@@ -18,7 +18,7 @@ A bit about me:
 
 * 🌱 I’m currently learning C++ and C. Any help is apreciated !
 * 👯 I’m looking to collaborate on anything interesting.
-* ✈️ Awyas wanted to live in a anglofonic country !
+* ✈️ Always wanted to live in a anglophone country !
 * 💻 Always had a thing for technology.
 * 🦜 I'm a HUGE animal lover.
 * 🛠 Always looking to create new things or find solutions to problems.
