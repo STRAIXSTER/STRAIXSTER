@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**STRAIXSTER/STRAIXSTER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm George, I'm working on becoming a software engineer.
 
-Here are some ideas to get you started:
+This profile was created with the goal of familiarizing myself with the more advanced part of the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will post here all my projects that I will work on to see my evolution in the future.
+
+--------------------------------------------------------------------------------------------------------------
+
+Languages and experience :
+I can work quite ok with C and C ++
+I can help people with problems with their PC's.
+
+--------------------------------------------------------------------------------------------------------------
+
+A bit about me:
+
+* 🌱 I’m currently learning C++ and C. Any help is apreciated !
+* 👯 I’m looking to collaborate on anything interesting.
+* ✈️ Awyas wanted to live in a anglofonic country !
+* 💻 Always had a thing for technology.
+* 🦜 I'm a HUGE animal lover.
+* 🛠 Always looking to create new things or find solutions to problems.
+* 📫 How to reach me: message me on discord. Same username as on Github.
