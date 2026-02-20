@@ -9,7 +9,7 @@ I will post here all my projects that I will work on to see my evolution in the 
 --------------------------------------------------------------------------------------------------------------
 
 ### 🛠 Language and expertise :
-**Core Focus:** C and C++(Current focus).
+**Core Focus:** C/C++ and Java(Current focus).
 
 **Hardware Skills:** Hardware Troubleshooting, PC building and system maintenance.
 
