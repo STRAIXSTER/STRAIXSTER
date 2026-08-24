@@ -24,5 +24,4 @@ I will post here all my projects that I will work on to see my evolution in the 
 * 🦜 **Fun fact:** I'm a **HUGE** animal lover.
 * 🛠 Always looking to create new things or find solutions to problems.
 
-### 📫 Connect with me:
-  **Discord:** STRAIXSTER (Message me for collabs!)
+
